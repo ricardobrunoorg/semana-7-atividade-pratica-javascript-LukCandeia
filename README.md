@@ -5,13 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lukas Nathan Matos Candeia
+- Matricula: 925157
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![Console Navegador](public/images/console.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
